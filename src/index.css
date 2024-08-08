@@ -1,0 +1,22 @@
+/* Ensure you have the Tailwind directives at the top */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom CSS for sliding effect */
+.slideshow {
+  transition: transform 2s ease-in-out;
+}
+
+.slideshow img {
+  transform: translateX(100%);
+}
+
+.slideshow img.active {
+  transform: translateX(0);
+}
+
+.slideshow img.inactive {
+  transform: translateX(-100%);
+}
+
