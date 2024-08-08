@@ -5,7 +5,7 @@ function Team() {
     <div id="about-us" className="flex flex-col md:flex-row w-full">
       <div className="w-full md:w-1/2">
         <img
-          src="/img/27.jpg"
+          src="/img/27.JPG"
           alt="Initiators of Change"
           className="w-full h-full object-cover"
         />
