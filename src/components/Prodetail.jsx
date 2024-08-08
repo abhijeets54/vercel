@@ -6,26 +6,26 @@ function Prodetail() {
       <div className="flex flex-col w-1/4 bg-white shadow-2xl rounded-lg overflow-hidden">
         {/* First row of images */}
         <div className="flex space-x-6"> {/* Horizontal spacing between images */}
-          <img src="/src/assets/8.jpg" alt="Awareness Projects" className="w-1/2 h-60 object-cover" /> {/* Increased image height */}
-          <img src="/src/assets/11.jpg" alt="Awareness Projects" className="w-1/2 h-60 object-cover" /> {/* Increased image height */}
+          <img src="/img/8.jpg" alt="Awareness Projects" className="w-1/2 h-60 object-cover" /> {/* Increased image height */}
+          <img src="/img/11.jpg" alt="Awareness Projects" className="w-1/2 h-60 object-cover" /> {/* Increased image height */}
         </div>
         {/* Second row of images */}
         <div className="flex space-x-6 mt-6"> {/* Horizontal spacing between images and margin-top */}
-          <img src="/src/assets/14.jpg" alt="Awareness Projects" className="w-1/2 h-60 object-cover" /> {/* Increased image height */}
-          <img src="/src/assets/13.jpg" alt="Awareness Projects" className="w-1/2 h-60 object-cover" /> {/* Increased image height */}
+          <img src="/img/14.jpg" alt="Awareness Projects" className="w-1/2 h-60 object-cover" /> {/* Increased image height */}
+          <img src="/img/13.jpg" alt="Awareness Projects" className="w-1/2 h-60 object-cover" /> {/* Increased image height */}
         </div>
         <h3 className="text-2xl font-semibold mt-6 mb-6 text-center">Project Usaari</h3> {/* Increased font size and margin */}
       <p className='text-center px-3'>Project Usaari, an initiative by Initiators of Change, has adopted government schools in Ludhiana and Delhi to provide free evening education to underprivileged children. This program aims to bridge the educational gap by offering supplementary classes, educational resources, digital literacy, skill development workshops, mentorship, and extracurricular activities. By creating a supportive learning environment, Project Usaari empowers students to excel academically and develop essential life skills, fostering a brighter future for them and their communities.</p></div>
       <div className="flex flex-col w-1/4 bg-white shadow-2xl rounded-lg overflow-hidden">
         {/* First row of images */}
         <div className="flex space-x-6"> {/* Horizontal spacing between images */}
-          <img src="/src/assets/17.jpg" alt="Awareness Projects" className="w-1/2 h-60 object-cover" /> {/* Increased image height */}
-          <img src="/src/assets/16.jpg" alt="Awareness Projects" className="w-1/2 h-60 object-cover" /> {/* Increased image height */}
+          <img src="/img/17.jpg" alt="Awareness Projects" className="w-1/2 h-60 object-cover" /> {/* Increased image height */}
+          <img src="/img/16.jpg" alt="Awareness Projects" className="w-1/2 h-60 object-cover" /> {/* Increased image height */}
         </div>
         {/* Second row of images */}
         <div className="flex space-x-6 mt-6"> {/* Horizontal spacing between images and margin-top */}
-          <img src="/src/assets/21.jpg" alt="Awareness Projects" className="w-1/2 h-60 object-cover" /> {/* Increased image height */}
-          <img src="/src/assets/22.jpg" alt="Awareness Projects" className="w-1/2 h-60 object-cover" /> {/* Increased image height */}
+          <img src="/img/21.jpg" alt="Awareness Projects" className="w-1/2 h-60 object-cover" /> {/* Increased image height */}
+          <img src="/img/22.jpg" alt="Awareness Projects" className="w-1/2 h-60 object-cover" /> {/* Increased image height */}
         </div>
         
         <h3 className="text-2xl mt-6 mb-6 font-semibold text-center">Project Saanjh</h3> {/* Increased font size and margin */}

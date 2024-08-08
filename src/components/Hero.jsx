@@ -14,7 +14,7 @@ function Hero() {
       </div>
       <div className="w-full md:w-1/3 flex items-center justify-center p-4">
         <img
-          src="/src/assets/6.jpg"
+          src="/img/6.jpg"
           alt="Chairman"
           className="w-full h-auto md:w-3/4 border-4 border-white"
         />
